@@ -1,0 +1,24 @@
+.regi_form em { color:#F00; font-size:15px;}
+.regi_form label {
+  color: #FF0000;
+  margin-left: 7px;
+}
+#payment-form { color:#F00; font-size:16px; }
+.pra_loader {
+  background: url("images/pra-loader.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  float: left;
+  height: 20px;
+  margin-right: 12px;
+  margin-top: 7px;
+  position: relative;
+  width: 20px;
+  display:none;
+}
+.pra_loader_form {
+  /*background: url("images/loader.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);*/
+
+background-image: url('images/loader.gif');
+background-repeat: no-repeat;
+background-position: center;
+height: 130px;
+}
